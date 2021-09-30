@@ -1,11 +1,11 @@
-# NoviLinux
-These is my implementation of the suckless tools.
+#NoviLinux
+This is my implementation of the suckless tools.
 I use it on Arch and it should work on other Linux Distributions as well as on BSD and Solaris.
 
-## Preparation
+##Preparation
 You need to have a System that runs the X11 Desktop.
 
-## Installation
+##Installation
 Clone this repository and use "Make" to install the binaries on your system.
 Change Directory to all of the Subdirectories.
 In each of them run: sudo make clean install
